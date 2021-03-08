@@ -2,9 +2,9 @@
 ***
 A cli to manage a vehicle showroom
 ## Dependancies Used
--Mongoose
--Commander
--Inquirer
+- Mongoose
+- Commander
+- Inquirer
 ## Requirements
 This program uses a local mongodb instance.To use this program on your localmachine, you will need mongodb to be installed.And to have a better representation of the database, it is suggested to have mongoDB compass installed. 
 ## Usage
@@ -32,7 +32,7 @@ $ npm link
 
 You will be good to go.
 
-##Commands
+## Commands
 
 1.Add a vehicle:
 
